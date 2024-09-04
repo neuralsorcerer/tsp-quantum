@@ -18,7 +18,7 @@ Make sure you have Python installed. You can download it from [python.org](https
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/papaaannn/tsp-quantum.git
+   git clone https://github.com/neuralsorcerer/tsp-quantum.git
    cd tsp-quantum
    ```
 
